@@ -1,0 +1,45 @@
+{
+  "enableSearch": true,
+  "pages": [
+    {
+      "src": "404.md",
+      "title": "Page not found",
+      "headings": {},
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/programKerja.md",
+      "title": "Program Kerja",
+      "headings": {
+        "program-kerja": "Program Kerja"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/team.md",
+      "title": "Topic 3a",
+      "headings": {
+        "topic-3a": "Topic 3a"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/topic2.md",
+      "title": "Topic 2",
+      "headings": {
+        "topic-2": "Topic 2"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "index.md",
+      "title": "Home Page",
+      "headings": {
+        "what-just-happened": "What just happened?",
+        "navigating-this-site": "Navigating this site",
+        "guide-to-markbind": "Guide to MarkBind"
+      },
+      "headingKeywords": {}
+    }
+  ]
+}
