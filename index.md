@@ -21,7 +21,7 @@
 ---
 
 ## Jadwal Kegiatan 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Asia%2FSingapore&showPrint=0&src=YWFnZGV5b2dpcHJhbWFuYUBtYWlsLnVnbS5hYy5pZA&src=Y19jbGFzc3Jvb21lNWU3YzE1NkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23039BE5&color=%23202124" style="border:solid 1px #777" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://outlook.office365.com/owa/calendar/2d6e9521fa1b478e8050e9f486da6ad9@365.ugm.ac.id/9d65c72433054f769649ab5082c115d87147453549236938485/calendar.html" style="border:solid 1px #777" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 
 <panel header="Jadwal KKN-PPM UGM Periode 2 Tahun 2025" peek>
 
