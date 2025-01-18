@@ -35,9 +35,7 @@
       "src": "index.md",
       "title": "Home Page",
       "headings": {
-        "what-just-happened": "What just happened?",
-        "navigating-this-site": "Navigating this site",
-        "guide-to-markbind": "Guide to MarkBind"
+        "jadwal-kegiatan": "Jadwal Kegiatan"
       },
       "headingKeywords": {}
     }
