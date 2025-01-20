@@ -8,6 +8,14 @@
       "headingKeywords": {}
     },
     {
+      "src": "contents/dokumen.md",
+      "title": "Dokumen Penting",
+      "headings": {
+        "dokumen-gm": "Dokumen GM"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "contents/programKerja.md",
       "title": "Program Kerja",
       "headings": {
@@ -17,17 +25,9 @@
     },
     {
       "src": "contents/team.md",
-      "title": "Topic 3a",
+      "title": "Team Klaster SAINTEK",
       "headings": {
-        "topic-3a": "Topic 3a"
-      },
-      "headingKeywords": {}
-    },
-    {
-      "src": "contents/topic2.md",
-      "title": "Topic 2",
-      "headings": {
-        "topic-2": "Topic 2"
+        "team-kami": "Team Kami"
       },
       "headingKeywords": {}
     },
