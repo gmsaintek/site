@@ -7,6 +7,7 @@
     <a slot="brand" href="{{baseUrl}}/index.html" title="Home" class="navbar-brand">GM LOGO</a>
     <li><a href="{{baseUrl}}/contents/programKerja.html" class="nav-link">Program Kerja</a></li>
     <li><a href="{{baseUrl}}/contents/team.html" class="nav-link">Team</a></li>
+    <li><a href="{{baseUrl}}/contents/dokumen.html" class="nav-link">Dokumen GM</a></li>
     <li slot="right">
       <form class="navbar-form">
         <searchbar :data="searchData" placeholder="Search" :on-hit="searchCallback" menu-align-right></searchbar>
@@ -25,6 +26,7 @@
 * [Home :house:]({{ baseUrl }}/index.html)
 * [Program Kerja]({{baseUrl}}/contents/programKerja.html)
 * [Team]({{baseUrl}}/contents/team.html)
+* [Dokumen GM :file_folder:]({{baseUrl}}/contents/dokumen.html)
       </site-nav>
     </div>
   </nav>
