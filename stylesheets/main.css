@@ -133,3 +133,14 @@ mark {
         display: none;
     }
 }
+
+.btn.drive-kkn{
+    background-color: #ff0;
+    border-color: #ff0;
+    color: black;
+}
+
+.btn.drive-kkn:hover{
+    background-color: gold;
+    border-color: gold;
+}
