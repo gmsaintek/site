@@ -39,6 +39,25 @@ No | Kegiatan               | Tanggal
 
 </panel>
 
+<panel header="Timeline KKN Mengwi 2025" peek>
+
+
+| No | Kegiatan                                | Tanggal                  |
+|----|-----------------------------------------|--------------------------|
+| 1  | Deadline Isi Link Proposal untuk buat PPT audiensi, Deadline KORMATER isi PPT Audiensi, Deadline RAB All Kluster, Rapat Online | 23-24 Januari            |
+| 2  | Pengisian KRS KKN, 2 SKS diambil literasi kesehatan, TARGET AUDIENSI, Penentuan isi pengantar proposal | 3-7 Februari             |
+| 3  | Pembuatan dan Persiapan Proposal, Pengisian PPT DPKM | 9-15 Februari            |
+| 4  | Sosialisasi tema dan input Proposal ke simaster DPL | 16-20 Februari           |
+| 5  | Registrasi online KKN                  | 21-28 Februari           |
+| 6  | Presentasi Online                      | 3-5 Maret                |
+| 7  | Tes Kesehatan dan Pembekalan Umum      | 6-23 Maret               |
+| 8  | Tes Kesehatan dan General Test         | 24-28 Maret              |
+| 9  | Peminatan dan Pemilihan lokasi KKN     | 8-9 April                |
+| 10 | Bakti kampus dan pengarahan tema KKN   | 3-11 Mei                 |
+| 11 | Pembekalan khusus dan pengambilan atribut KKN | 19-30 Mei          |
+| 12 | Penerjunan KKN dan pelaksanaan KKN     | 19-20 Juni               |
+
+</panel>
 ---
 
 ---
