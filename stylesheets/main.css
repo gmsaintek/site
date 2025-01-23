@@ -135,12 +135,12 @@ mark {
 }
 
 .btn.drive-kkn{
-    background-color: #ff0;
-    border-color: #ff0;
-    color: black;
+    background-color: rgb(11, 126, 164);
+    border-color: rgb(11, 126, 164);
+    color: white;
 }
 
 .btn.drive-kkn:hover{
-    background-color: gold;
-    border-color: gold;
+    background-color: darkblue;
+    border-color: darkblue;
 }
