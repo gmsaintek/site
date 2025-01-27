@@ -40,8 +40,14 @@
 <iframe src="https://drive.google.com/file/d/1-t-5sA7dQ5xikD4tdKNPt-F1UIyQptfL/preview" width="100%" height="480" allow="autoplay"></iframe>
 </panel>
 <br>
-<panel header="RAB Semua Kluster" minimized>
+<panel header="RAB Semua Kluster" type="success" minimized>
+<a class="btn btn-outline-success" href="https://docs.google.com/spreadsheets/d/1iDF8j35v6RXVEd3-GNX2hXlXojBRWiSHWcwtrXHFXtQ/edit?usp=sharing" target="_blank" role="button">Rab Spreadsheets</a>
 <iframe src="https://docs.google.com/spreadsheets/d/1iDF8j35v6RXVEd3-GNX2hXlXojBRWiSHWcwtrXHFXtQ/edit?usp=sharing" width="100%" height="800" frameborder="0" minimized></iframe>
+</panel>
+<br>
+<panel header="Program Kerja Mengwi 2025" type="success" minimized>
+<a class="btn btn-outline-success" href="https://docs.google.com/spreadsheets/d/1LG2z3Jc6oLiAwV_NIkFKQ9C8JWzmxeBxvmOhqXg2KD8/edit?usp=sharing" target="_blank" role="button">Proker Mengwi 2025</a>
+<iframe src="https://docs.google.com/spreadsheets/d/1LG2z3Jc6oLiAwV_NIkFKQ9C8JWzmxeBxvmOhqXg2KD8/edit?usp=sharing" width="100%" height="800" frameborder="0" minimized></iframe>
 </panel>
 <br>
 
