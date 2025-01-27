@@ -37,7 +37,11 @@
 > Dokumen Internal GM
 
 <panel header="PPT Gantari Mengwi 2025" minimized >
-<iframe src="https://drive.google.com/file/d/1-t-5sA7dQ5xikD4tdKNPt-F1UIyQptfL/preview" width="100%" height="480" allow="autoplay"></frame>
+<iframe src="https://drive.google.com/file/d/1-t-5sA7dQ5xikD4tdKNPt-F1UIyQptfL/preview" width="100%" height="480" allow="autoplay"></iframe>
+</panel>
+<br>
+<panel header="RAB Semua Kluster" minimized>
+<iframe src="https://docs.google.com/spreadsheets/d/1iDF8j35v6RXVEd3-GNX2hXlXojBRWiSHWcwtrXHFXtQ/edit?usp=sharing" width="100%" height="800" frameborder="0" minimized></iframe>
 </panel>
 <br>
 
