@@ -5,7 +5,14 @@
 <header sticky>
   <navbar type="dark">
     <a slot="brand" href="{{baseUrl}}/index.html" title="Home" class="navbar-brand">GM LOGO</a>
-    <li><a href="{{baseUrl}}/contents/programKerja.html" class="nav-link">Program Kerja</a></li>
+    <dropdown header="Program Kerja" type="primary">
+      <li><a href="{{baseUrl}}/contents/programKerja.html" class="dropdown-item">Program Kerja SAINTEK</a></li>
+      <li><a href="{{baseUrl}}/contents/kodeSektor.html" class="dropdown-item">Kode Sektor</a></li>
+      <dropdown header="Petunjuk Proker">
+        <li><a href="#dropdown" class="dropdown-item">Flowchart Pembuatan Proker</a></li>
+        <li><a href="#dropdown" class="dropdown-item">Ketentuan Program Kerja</a></li>
+      </dropdown>
+    </dropdown>
     <li><a href="{{baseUrl}}/contents/team.html" class="nav-link">Team</a></li>
     <li><a href="{{baseUrl}}/contents/dokumen.html" class="nav-link">Dokumen GM</a></li>
     <li slot="right">
