@@ -23,21 +23,6 @@
 ## Jadwal Kegiatan 
 <iframe src="https://outlook.office365.com/owa/calendar/dc5b1abd1ceb4fed940b294af9977845@365.ugm.ac.id/6dfd94daa70c473fa49485ec2c7afcc010680563674479267916/calendar.html" style="border:solid 1px #777" width="100%" height="600" frameborder="0" scrolling="yes"></iframe>
 
-<panel header="Jadwal KKN-PPM UGM Periode 2 Tahun 2025" peek>
-
-
-No | Kegiatan               | Tanggal 
-:----- | :-------:          | :----: |
-1  | KRS KKN                | Sesuai jadwal KRS antar semester |
-2  | Registrasi Online KKN  | 21 Februari - 3 Maret 2025    |
-3  | Verifikasi Admin Fakultas  | 21 Februari - 3 Maret 2025    |
-4  | Melengkapi Data Pendaftaran KKN  | 21 Februari - 3 Maret 2025    |
-5  | Tes Kesehatan di GMC UGM  | 21 Februari - 3 Maret 2025    |
-6  | Pembekalan Umum KKN  | 21 Februari - 3 Maret 2025    |
-7  | General Test Online | 21 Februari - 3 Maret 2025    |
-8  | Peminatan Lokasi KKN | 21 Februari - 3 Maret 2025    |
-
-</panel>
 
 <panel header="Timeline KKN Mengwi 2025" peek>
 

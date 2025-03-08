@@ -4,7 +4,7 @@
 
 <header sticky>
   <navbar type="dark">
-    <a slot="brand" href="{{baseUrl}}/index.html" title="Home" class="navbar-brand">GM LOGO</a>
+    <a slot="brand" href="{{baseUrl}}/index.html" title="Home" class="navbar-brand">GM Saintek</a>
     <dropdown header="Program Kerja" type="primary">
       <li><a href="{{baseUrl}}/contents/programKerja.html" class="dropdown-item">Program Kerja SAINTEK</a></li>
       <li><a href="{{baseUrl}}/contents/kodeSektor.html" class="dropdown-item">Kode Sektor</a></li>
